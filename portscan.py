@@ -33,4 +33,4 @@ try:
     print("fin du scan")
 
 except Exception as i:
-    print(f"{i}    An ip address is composed of four numbers from 0 to 255 and separeted by dots ")
+    print(f"{i}    An ip address is composed of four numbers from 0 to 255 and separeted by dots  ")
